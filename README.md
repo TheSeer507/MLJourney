@@ -6,9 +6,9 @@ for implementing machine learning algorithms.
 
 
 ## Update Status
-![GitHub last commit](https://img.shields.io/github/last-commit/TheSeer507/CodingInterviewExamples?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/TheSeer507/MLJourney?style=flat-square)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/TheSeer507/CodingInterviewExamples?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/TheSeer507/MLJourney?style=flat-square)
 
 
 ## Getting Started
